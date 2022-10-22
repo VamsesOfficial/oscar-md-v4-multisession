@@ -1,42 +1,32 @@
 let handler = async (m, { conn }) => {
 	//-----PRICE
 //sewa
-let sh = '15'
-let sn = '25'
+let sh = '4'
+let sn = '8'
 let ss = '35'
-let sp = '40'
-let sv = '75'
 //premium
-let ph = '10'
-let pn = '20'
-let pp = '40'
-let pv = '50'
-let ppm = '75'
+let ph = '2,5'
+let pn = '5'
 let info = `
 ╭━━━━「 *SEWA* 」
-┊⫹⫺ *Hemat:* _${sh}k/grup (1 minggu)_
-┊⫹⫺ *Normal:* _${sn}k/grup (1 bulan)_
-┊⫹⫺ *Standar:* _${ss}k/grup (2 bulan)_
-┊⫹⫺ *Pro:* _${sp}k/grup (4 bulan)_                                                      
-┊⫹⫺ *Vip:* = _${sv}k/grup (12 bulan)_
+┊⫹⫺ *Hemat:* _${sh}k/grup (1 Bulan)_
+┊⫹⫺ *Normal:* _${sn}k/grup (Permanent)_
+┊⫹⫺ *Script Bot:* _${ss}k_
 ╰═┅═━––––––๑
 
 ╭━━━━「 *PREMIUM* 」
-┊⫹⫺ *Hemat:* _${ph}k (1 minggu)_
-┊⫹⫺ *Normal:* _${pn}k (1 bulan)_
-┊⫹⫺ *Pro:* _${pp}k (4 bulan)_
-┊⫹⫺ *Vip:* _${pv}k (8 bulan)_                                               
-┊⫹⫺ *Permanent:* = _${ppm}k (Unlimited)_
+┊⫹⫺ *Hemat:* _${ph}k (1 Bulam)_
+┊⫹⫺ *Normal:* _${pn}k (Permanent)_
 ╰═┅═━––––––๑
 
 *⫹⫺ PAYMENT:*
 • *Pulsa Indosat:* [${ppulsa}]
 • *Dana:* [${pdana}]
-• *Saweria:* 'https://saweria.co/jarotoffc'
+• *Saweria:* '-'
 
 –––––– *🐾 Kebijakan* ––––––
-🗣️: Kak, Kok harganya mahal banget?
-💬: Mau tawar menawar? boleh
+🗣️: Kak, Featur nya pasaran ga?
+💬: Ga dong, bot kami di rancang dengan featur no pasaran?
 
 🗣️: Scam ga nih kak?
 💬: Enggalah, Owner 100% Tepati janji #STAYHALAL
@@ -47,21 +37,15 @@ const sections = [
    {
 	title: `${htjava} SEWA ✦-------`,
 	rows: [
-	    {title: "🔖 HEMAT", rowId: '.order *Paket:* HEMAT • Sewa', description: 'PRICE: ' + sh + 'k (1 minggu)' },
-	    {title: "🔖 NORMAL", rowId: '.order *Paket:* NORMAL • Sewa', description: 'PRICE: ' + sn + 'k (1 bulan)' },
-	{title: "🔖 STANDAR", rowId: '.order *Paket:* STANDAR • Sewa', description: 'PRICE: ' + ss + 'k (2 bulan)' },
-	{title: "🔖 PRO", rowId: '.order *Paket:* PRO • Sewa', description: 'PRICE: ' + sp + 'k (4 bulan)' },
-	{title: "🔖 VIP", rowId: '.order *Paket:* VIP • Sewa', description: 'PRICE: ' + sv + 'k (12 bulan)' },
+	    {title: "🔖 HEMAT", rowId: '.order *Paket:* HEMAT • Sewa', description: 'PRICE: ' + sh + 'k (1 Bulan)' },
+	    {title: "🔖 NORMAL", rowId: '.order *Paket:* NORMAL • Sewa', description: 'PRICE: ' + sn + 'k (Permanent)' },
+	{title: "🔖 STANDAR", rowId: '.order *Paket:* Script Bot', description: 'PRICE: ' + ss + 'k' },
 	]
     }, {
     title: `${htjava} PREMIUM ✦-------`,
 	rows: [
-	    {title: "🌟 HEMAT", rowId: '.order *Paket:* HEMAT • Premium', description: 'PRICE: ' + ph + 'k (1 minggu)' },
-	    {title: "🌟 NORMAL", rowId: '.order *Paket:* NORMAL • Premium', description: 'PRICE: ' + pn + 'k (1 bulan)' },
-	{title: "🌟 PRO", rowId: '.order *Paket:* PRO • Premium', description: 'PRICE: ' + pp + 'k (4 bulan)' },
-	{title: "🌟 VIP", rowId: '.order *Paket:* VIP • Premium', description: 'PRICE: ' + pv + 'k (8 bulan)' },
-	{title: "🌟 PERMANENT", rowId: '.order *Paket:* PERMANENT • Premium', description: 'PRICE: ' + ppm + 'k (UNLIMITED)' },
-	]
+	    {title: "🌟 HEMAT", rowId: '.order *Paket:* HEMAT • Premium', description: 'PRICE: ' + ph + 'k (1 Bulan)' },
+	    {title: "🌟 NORMAL", rowId: '.order *Paket:* NORMAL • Premium', description: 'PRICE: ' + pn + 'k (Permanent)' },
     },
 ]
 
