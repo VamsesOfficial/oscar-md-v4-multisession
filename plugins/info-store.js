@@ -1,25 +1,25 @@
 let handler = async (m, { conn }) => {
 	//-----PRICE
 //sewa
-let sh = '15'
+let sh = '8'
 let info = `
 
 *⫹⫺ Halo Kak Welcome Store Oscar*
- ⫹⫺ 𝘚𝘦𝘮𝘦𝘯𝘵𝘢𝘳𝘢 𝘚𝘵𝘰𝘳𝘦 𝘖𝘴𝘤𝘢𝘳-𝘔𝘥 𝘩𝘢𝘯𝘺𝘢 𝘪𝘯𝘪
+ ⫹⫺ 𝘚𝘦𝘮𝘦𝘯𝘵𝘢𝘳𝘢 𝘚𝘵𝘰𝘳𝘦 itsuki-bots 𝘩𝘢𝘯𝘺𝘢 𝘪𝘯𝘪
  ⫹⫺ Di Jamin Amanah kok
 `
 const sections = [
    {
-	title: `⫹⫺  Store Oscar`,
+	title: `⫹⫺  Store Itsuki`,
 	rows: [
 	    {title: "🔖 TutorJadibot", rowId: '.order *Paket:* TutorJadibot', description: 'Tutor Jadibot/belajar ngebot' },
-	    {title: "⛽ NORMAL", rowId: '.order *Paket:* NORMAL • Sewa', description: 'PRICE: ' + sh + 'k (1 minggu)' },
+	    {title: "⛽ NORMAL", rowId: '.order *Paket:* NORMAL • Sewa', description: 'PRICE: ' + sh + 'k (permanent)' },
 	]
     }, {
-    title: `⫹⫺ Suport Store Oscar-Md`,
+    title: `⫹⫺ Suport Store itsuki-bots`,
 	rows: [
 	   {title: "📮Donasi", rowId: ".donasi"},
-	  {title: "🎀 Iklan Oscar-Md", rowId: ".sosialmedia"},
+	  {title: "🎀 Iklan itsuki-bots", rowId: ".sosialmedia"},
 	]
     },
 ]
