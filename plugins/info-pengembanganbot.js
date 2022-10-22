@@ -45,7 +45,7 @@ conn.sendButtonDoc(m.chat, jarot, wm,'Makasih Yang Sudah Suport','You', m, { con
     mediaUrl: "https://Instagram.com/maouk.store",
     mediaType: "VIDEO",
     description: "https://Instagram.com/maouk.store", 
-    title: 'itsuki-MultiDevice',
+    title: 'Makima-MultiDevice',
     body: wm,
     thumbnail: thumb,
     sourceUrl: sig
