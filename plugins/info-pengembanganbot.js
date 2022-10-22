@@ -23,33 +23,29 @@ let jarot = `*▸ —「 𝘐𝘯𝘧𝘰𝘳𝘮𝘢𝘴𝘪 𝘛𝘦𝘯𝘵�
 
 「𝘔𝘶𝘯𝘨𝘬𝘪𝘯 𝘔𝘢𝘶 𝘋𝘰𝘯𝘢𝘴𝘪」
 
-⫹⫺ Via Pulsa : 6285850539404
-⫹⫺ Via Dana : 6285850539404
-⫹⫺ Via Saweria :
-⫹⫺ https://saweria.co/jarotoffc
+⫹⫺ Via Pulsa : 085172402754
+⫹⫺ Via Dana : 085172402754
+⫹⫺ Via Gopay : 085172402754
 
 「 𝘐𝘬𝘶𝘵𝘪 𝘚𝘰𝘴𝘪𝘢𝘭 𝘮𝘦𝘥𝘪𝘢 𝘉𝘰𝘵」
 
 ⫹⫺ 𝘉𝘪𝘢𝘳 𝘛𝘪𝘥𝘢𝘬 𝘒𝘦𝘵𝘪𝘯𝘨𝘨𝘢𝘭𝘢𝘯 𝘐𝘯𝘧𝘰𝘳𝘮𝘢𝘴𝘪 𝘛𝘦𝘳𝘣𝘢𝘳𝘶!!
-*❉ 𝘚𝘶𝘴𝘤𝘳𝘪𝘣𝘦 𝘠𝘰𝘶𝘵𝘶𝘣𝘦 𝘉𝘰𝘵*
-⫹⫺ https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ
-*❉ 𝘍𝘰𝘭𝘭𝘰𝘸 𝘐𝘯𝘴𝘵𝘢𝘴𝘨𝘳𝘢𝘮 𝘉𝘰𝘵*
-⫹⫺ https://Instagram.com/jarotr_
+*❉ Follow Github Owner*
+⫹⫺ https://github.com/zodress
+*❉ Follow Instagram Owner*
+⫹⫺ https://Instagram.com/maouk.store
 
 「 𝘑𝘰𝘪𝘯 𝘎𝘳𝘰𝘶𝘱 𝘉𝘰𝘵 𝘒𝘢𝘬 」
 
-*𝘎𝘳𝘰𝘶𝘱 𝘙𝘪𝘴𝘮𝘢𝘣𝘰𝘵𝘻 𝘖𝘧𝘧𝘤*
-⫹⫺ https://chat.whatsapp.com/IqZke0cAG6G3iVsnB9myfL
-
-*𝘎𝘳𝘰𝘶𝘱 𝘋𝘪𝘴𝘤𝘶𝘴𝘴𝘪𝘰𝘯*
-⫹⫺ https://chat.whatsapp.com/GPMdyM0uDMP789G3IGMHda
+*𝘎𝘳𝘰𝘶𝘱 Bot*
+⫹⫺ https://chat.whatsapp.com/DbbDlICeGFuJiX9KlFyI17
 
 `
 conn.sendButtonDoc(m.chat, jarot, wm,'Makasih Yang Sudah Suport','You', m, { contextInfo: { externalAdReply: { showAdAttribution: true,
-    mediaUrl: "https://Instagram.com/jarotr_",
+    mediaUrl: "https://Instagram.com/maouk.store",
     mediaType: "VIDEO",
-    description: "https://Instagram.com/jarotr_", 
-    title: 'oscar-MultiDevice',
+    description: "https://Instagram.com/maouk.store", 
+    title: 'itsuki-MultiDevice',
     body: wm,
     thumbnail: thumb,
     sourceUrl: sig
