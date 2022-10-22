@@ -50,7 +50,7 @@ global.psaweria = '-'
 /*============== NOMOR ==============*/
 global.nomorbot = '6282112309026'
 global.nomorown = '6285172402754'
-global.namebot = 'ITSUKI_BOTS'
+global.namebot = 'Makima-Bots'
 global.nameown = 'Maouk Store'
 
 /*============== APIKEY SIMPEL ==============*/
@@ -63,7 +63,7 @@ global.owner = [
   ['6285172402754', 'Maouk Store', true],
   ['6285942994641', 'Nolse Store', true],
   ['6285172398526', 'Power Bots', true],
-  ['6282112309026', 'Itsuki Bots', true], //Ganti jd nomormu sama Namamu
+  ['6282112309026', 'Makima Bots', true], //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -111,9 +111,9 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 ITSUKI_BOTS 」' //Main Watermark
+global.wm = '                「 Makima-BOTS 」' //Main Watermark
 global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘𝘉𝘰𝘵 𝘔𝘶𝘭𝘵𝘪𝘋𝘦𝘷𝘪𝘤𝘦˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ ITSUKI-BOTS '
+global.wm3 = '⫹⫺ Makima-BOTS '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
 global.titlebot = `⫹⫺ WhatsApp Bot | BY Maouk`
