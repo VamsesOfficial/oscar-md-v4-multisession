@@ -9,7 +9,7 @@ let wibu = `https://hadi-api.herokuapp.com/api/loli`
 let thumb = await(await fetch(wibu)).buffer()
 conn.sendButtonDoc(m.chat, str, wm,'ᴏᴋ','Cok', m, { contextInfo: { externalAdReply: { showAdAttribution: true,
     mediaUrl: "https://chat.whatsapp.com/DbbDlICeGFuJiX9KlFyI17",
-    title: 'itsuki-MultiDevice',
+    title: 'Makima-MultiDevice',
     body: 'Cari Aja Di Situ',
     thumbnail: thumb,
     sourceUrl: sgc
