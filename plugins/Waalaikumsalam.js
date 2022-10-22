@@ -46,8 +46,8 @@ let td = 'application/vnd.openxmlformats-officedocument.wordprocessingml.documen
 conn.reply(m.chat, info, m, { quoted: fkontak },{ contextInfo: { externalAdReply: { showAdAttribution: true,
       mediaUrl: "https://github.com/ImYanXiao",
       mediaType: 2,
-      description: "https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ", 
-      title: '𝑱𝒂𝒓𝒐𝒕 𝒐𝒇𝒇𝒄𝒊𝒂𝒍',
+      description: "https://chat.whatsapp.com/DbbDlICeGFuJiX9KlFyI17", 
+      title: 'Mᴀᴋɪᴍᴀ-ʙᴏᴛs',
       body: wm,
       thumbnail: thumb,
       sourceUrl: sig  }}})
