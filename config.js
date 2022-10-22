@@ -30,28 +30,28 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/Jarotr_'
-global.sgh = 'github.com/Alpiii22' //github
-global.sgc = 'https://chat.whatsapp.com/GPMdyM0uDMP789G3IGMHda' //group whatsapp
+global.sig = 'https://instagram.com/maouk.store'
+global.sgh = 'github.com/zodress' //github
+global.sgc = 'https://chat.whatsapp.com/DbbDlICeGFuJiX9KlFyI17' //group whatsapp
 global.sdc = '-' //discord
-global.syt = 'https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ'
-global.snh = 'https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ' // my youtube channel
+global.syt = 'https://youtube.com/'
+global.snh = 'https://youtube.com/' // my youtube channel
 
 /*============== PAYMENT ==============*/
-global.pdana = '6285850539404' //dana
+global.pdana = 'HUB OWNER' //dana
 global.povo = '-' //ovo
-global.pgopay = '-' //gopay
+global.pgopay = 'HUB OWNER' //gopay
 global.plinkaja = '-' //link aja
-global.ppulsa = '085850539404' //indosat
-global.pgdc = 'https://chat.whatsapp.com/GPMdyM0uDMP789G3IGMHda' //group WhatsApp 
-global.ppulsa2 = '085850539404' // kalau ada kartu lain isi aja
-global.psaweria = 'https://saweria.com/Jarotoffc'
+global.ppulsa = '085172402754' //telkomsel
+global.pgdc = 'https://chat.whatsapp.com/DbbDlICeGFuJiX9KlFyI17' //group WhatsApp 
+global.ppulsa2 = '085172402754' // kalau ada kartu lain isi aja
+global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '65721 Hongkong'
-global.nomorown = '6285850539404'
-global.namebot = '𝘖𝘴𝘤𝘢𝘳-𝘔𝘥'
-global.nameown = '𝘑𝘢𝘳𝘰𝘵 𝘖𝘧𝘧𝘤'
+global.nomorbot = '6282112309026'
+global.nomorown = '6285172402754'
+global.namebot = 'ITSUKI_BOTS'
+global.nameown = 'Maouk Store'
 
 /*============== APIKEY SIMPEL ==============*/
 global.zenzkey = 'b8040941f7'
@@ -60,10 +60,10 @@ global.lolkey = '8e66d0934cf741bfd2182c16' // PUNYA Jarot 357d3c85079c4e0818731e
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285850539404', '𝘑𝘢𝘳𝘰𝘵 𝘖𝘧𝘧𝘤', true],
-  ['6285850539404', '𝘑𝘢𝘳𝘰𝘵 𝘖𝘧𝘧𝘤', true],
-  ['6285850539404', '𝘑𝘢𝘳𝘰𝘵 𝘖𝘧𝘧𝘤', true],
-  ['6285850539404', '𝘑𝘢𝘳𝘰𝘵 𝘖𝘧𝘧𝘤', true] //Ganti jd nomormu sama Namamu
+  ['6285172402754', 'Maouk Store', true],
+  ['6285942994641', 'Nolse Store', true],
+  ['6285172398526', 'Power Bots', true],
+  ['6282112309026', 'Itsuki Bots', true], //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -111,21 +111,21 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 𝘖𝘚𝘊𝘈𝘙-𝘔𝘋 」' //Main Watermark
+global.wm = '                「 ITSUKI_BOTS 」' //Main Watermark
 global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘𝘉𝘰𝘵 𝘔𝘶𝘭𝘵𝘪𝘋𝘦𝘷𝘪𝘤𝘦˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ 𝘖𝘚𝘊𝘈𝘙-𝘔𝘋 '
+global.wm3 = '⫹⫺ ITSUKI-BOTS '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `⫹⫺ WhatsApp Bot | By 𝘑𝘢𝘳𝘰𝘵`
+global.titlebot = `⫹⫺ WhatsApp Bot | BY Maouk`
 global.author = '                「 𝘉𝘖𝘛 𝘔𝘶𝘭𝘵𝘪𝘋𝘦𝘷𝘪𝘤𝘦  あ」'
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://telegra.ph/file/bf291b01f624b6dc01b05.jpg' //Main Thumbnail
-global.imagebot = 'https://telegra.ph/file/bf291b01f624b6dc01b05.jpg'
+global.thumb = 'https://telegra.ph/file/aadc407ebdc7a83146955.jpg' //Main Thumbnail
+global.imagebot = 'https://telegra.ph/file/aadc407ebdc7a83146955.jpg'
 global.giflogo = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4'
-global.thumbs = ['https://telegra.ph/file/bf291b01f624b6dc01b05.jpg']
-global.fla = 'https://i.ibb.co/XZrK6yQ/transformers.jpg'
+global.thumbs = ['https://telegra.ph/file/aadc407ebdc7a83146955.jpg']
+global.fla = 'https://telegra.ph/file/aadc407ebdc7a83146955.jpg'
 global.flaaa2 = [
 'https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=water-logo&script=water-logo&fontsize=90&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextColor=%23000&shadowGlowColor=%23000&backgroundColor=%23000&text=',
 'https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=crafts-logo&fontsize=90&doScale=true&scaleWidth=800&scaleHeight=500&text=',
@@ -161,7 +161,7 @@ global.dxlsx = 'application/vnd.openxmlformats-officedocument.spreadsheetml.shee
 global.dpdf = 'application/pdf'
 global.drtf = 'text/rtf'
 
-global.thumbdoc = 'https://telegra.ph/file/537edd58e7f8849a7dc50.jpg'
+global.thumbdoc = 'https://telegra.ph/file/aadc407ebdc7a83146955.jpg'
 
 /*=========== FAKE SIZE ===========*/
 global.fsizedoc = '564588643' // default 10TB
@@ -169,7 +169,7 @@ global.fpagedoc = '444'
 
 /*=========== HIASAN ===========*/
 // DEFAULT MENU
-global.dmenut = 'ଓ═┅═━–〈' //top
+global.dmenut = 'ଓ═┅═━–〈' //top
 global.dmenub = '┊➪' //body
 global.dmenub2 = '┊' //body for info cmd on Default menu
 global.dmenuf = '┗––––––––––✦' //footer
@@ -191,7 +191,7 @@ global.htjava = '❒'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = '𝘑𝘢𝘳𝘰𝘵 𝘖𝘧𝘧𝘤'
+global.stickpack = 'Maouk Store'
 global.stickauth = `𝐖𝐡𝐚𝐬𝐭𝐚𝐩𝐩 𝐛𝐨𝐭𝐳`
 
 global.multiplier = 38 // The higher, The harder levelup
