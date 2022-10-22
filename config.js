@@ -112,20 +112,20 @@ global.APIKeys = { // APIKey Here
 
 /*============== WATERMARK ==============*/
 global.wm = '                「 Makima-BOTS 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘𝘉𝘰𝘵 𝘔𝘶𝘭𝘵𝘪𝘋𝘦𝘷𝘪𝘤𝘦˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘ʙᴏᴛs 𝘔𝘶𝘭𝘵𝘪𝘋𝘦𝘷𝘪𝘤𝘦˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
 global.wm3 = '⫹⫺ Makima-BOTS '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
 global.titlebot = `⫹⫺ WhatsApp Bot | BY Maouk`
-global.author = '                「 𝘉𝘖𝘛 𝘔𝘶𝘭𝘵𝘪𝘋𝘦𝘷𝘪𝘤𝘦  あ」'
+global.author = '                「 ʙᴏᴛs 𝘔𝘶𝘭𝘵𝘪𝘋𝘦𝘷𝘪𝘤𝘦  あ」'
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://telegra.ph/file/aadc407ebdc7a83146955.jpg' //Main Thumbnail
-global.imagebot = 'https://telegra.ph/file/aadc407ebdc7a83146955.jpg'
+global.thumb = 'https://telegra.ph/file/4bc23c75e4e3e37b2beff.jpg' //Main Thumbnail
+global.imagebot = 'https://telegra.ph/file/4bc23c75e4e3e37b2beff.jpg'
 global.giflogo = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4'
-global.thumbs = ['https://telegra.ph/file/aadc407ebdc7a83146955.jpg']
-global.fla = 'https://telegra.ph/file/aadc407ebdc7a83146955.jpg'
+global.thumbs = ['https://telegra.ph/file/4bc23c75e4e3e37b2beff.jpg']
+global.fla = 'https://telegra.ph/file/4bc23c75e4e3e37b2beff.jpg'
 global.flaaa2 = [
 'https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=water-logo&script=water-logo&fontsize=90&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextColor=%23000&shadowGlowColor=%23000&backgroundColor=%23000&text=',
 'https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=crafts-logo&fontsize=90&doScale=true&scaleWidth=800&scaleHeight=500&text=',
