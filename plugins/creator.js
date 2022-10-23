@@ -10,7 +10,7 @@ let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
 ✦ @${nomorown.split`@`[0]} ✦
 ------- ${nameown} -------
 Lebih simpel
-wa.me/6285172402754
+wa.me/6289508503105
 📮 *Note:*
 • Save ae ownernya gnteng uih🗿
 • Owner berhak blockir tanpa alasan
@@ -21,17 +21,17 @@ wa.me/6285172402754
 //------------ BIO
 let ppown = await conn.profilePictureUrl(nomorown + '@s.whatsapp.net', 'image').catch(_ => hwaifu[1]) 
 let teksbio = `${htki} *BIODATA* ${htka}
-${htjava} *💌 Nama* : Maouk
-${htjava} *✉️ Nama RL* : Adli
+${htjava} *💌 Nama* : Agus
+${htjava} *✉️ Nama RL* : Vamses
 ${htjava} *♂️ Gender* : Boys
-${htjava} *🕋 Agama* : Islam
+${htjava} *🕋 Agama* : Hindu
 ${htjava} *⏰ Tanggal lahir* : Private 🥶
 ${htjava} *🎨 Umur* : 19
-${htjava} *🧮 Kelas* : LULUS
+${htjava} *🧮 Kelas* : Berapa ya🤔
 ${htjava} *🧩 Hobby* : NGODING SCRIPT,NGEBOT,NONTON YOUTUBE , MAKAN , TIDUR🗿"
 ${htjava} *💬 Sifat* : ASIK DAH KALAU DAH KENAL
 ${htjava} *🗺️ Tinggal* : Indo, 𝘑𝘢𝘵𝘪𝘮
-${htjava} *❤️ Waifu* : Makima-Chan
+${htjava} *❤️ Waifu* : Gweh sih emilia😋
 
 ${htjava} *📷 ɪɴsᴛᴀɢʀᴀᴍ* : ${sig}
 ${htjava} *🐈 ɢɪᴛʜᴜʙ:* ${sgh}
