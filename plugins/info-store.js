@@ -4,19 +4,19 @@ let handler = async (m, { conn }) => {
 let sh = '8'
 let info = `
 
-*⫹⫺ Halo Kak Welcome Store Makima*
- ⫹⫺ 𝘚𝘦𝘮𝘦𝘯𝘵𝘢𝘳𝘢 𝘚𝘵𝘰𝘳𝘦 itsuki-bots 𝘩𝘢𝘯𝘺𝘢 𝘪𝘯𝘪
+*⫹⫺ Halo Kak Welcome Store Vamses*
+ ⫹⫺ 𝘚𝘦𝘮𝘦𝘯𝘵𝘢𝘳𝘢 𝘚𝘵𝘰𝘳𝘦 Vamses 𝘩𝘢𝘯𝘺𝘢 𝘪𝘯𝘪
  ⫹⫺ Di Jamin Amanah kok
 `
 const sections = [
    {
-	title: `⫹⫺  Store Makima`,
+	title: `⫹⫺  Store Vamses`,
 	rows: [
 	    {title: "🔖 TutorJadibot", rowId: '.order *Paket:* TutorJadibot', description: 'Tutor Jadibot/belajar ngebot' },
 	    {title: "⛽ NORMAL", rowId: '.order *Paket:* NORMAL • Sewa', description: 'PRICE: ' + sh + 'k (permanent)' },
 	]
     }, {
-    title: `⫹⫺ Suport Store Makima-Bots`,
+    title: `⫹⫺ Suport Store Chonix-Bots`,
 	rows: [
 	   {title: "📮Donasi", rowId: ".donasi"},
 	  {title: "🎀 Iklan Makima-bots", rowId: ".sosialmedia"},
