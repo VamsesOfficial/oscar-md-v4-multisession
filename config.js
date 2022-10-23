@@ -30,28 +30,28 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/maouk.store'
-global.sgh = 'github.com/zodress' //github
-global.sgc = 'https://chat.whatsapp.com/DbbDlICeGFuJiX9KlFyI17' //group whatsapp
+global.sig = 'https://instagram.com/ketutagus404'
+global.sgh = 'github.com/VamsesOfficial' //github
+global.sgc = 'https://chat.whatsapp.com/JxI53XkvnnYHP2D1eIZ8fu' //group whatsapp
 global.sdc = '-' //discord
-global.syt = 'https://youtube.com/'
-global.snh = 'https://youtube.com/' // my youtube channel
+global.syt = 'https://youtube.com/channel/UCzLaeyGJk-JJu-oIS4Qt4JA'
+global.snh = 'https://youtube.com/channel/UCzLaeyGJk-JJu-oIS4Qt4JA' // my youtube channel
 
 /*============== PAYMENT ==============*/
-global.pdana = 'HUB OWNER' //dana
-global.povo = '-' //ovo
+global.pdana = '6285738639969' //dana
+global.povo = '6285738639969' //ovo
 global.pgopay = 'HUB OWNER' //gopay
 global.plinkaja = '-' //link aja
-global.ppulsa = '085172402754' //telkomsel
-global.pgdc = 'https://chat.whatsapp.com/DbbDlICeGFuJiX9KlFyI17' //group WhatsApp 
+global.ppulsa = '085738639969' //telkomsel
+global.pgdc = 'https://chat.whatsapp.com/JxI53XkvnnYHP2D1eIZ8fu' //group WhatsApp 
 global.ppulsa2 = '085172402754' // kalau ada kartu lain isi aja
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6282112309026'
-global.nomorown = '6285172402754'
-global.namebot = 'Makima-Bots'
-global.nameown = 'Maouk Store'
+global.nomorbot = '19152666222'
+global.nomorown = '6289508503105'
+global.namebot = '𝐂𝐡𝐨𝐧𝐢𝐱-𝐁𝐨𝐭'
+global.nameown = '𝐕𝐚𝐦𝐬𝐞𝐬 𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥'
 
 /*============== APIKEY SIMPEL ==============*/
 global.zenzkey = 'b8040941f7'
@@ -60,10 +60,10 @@ global.lolkey = '8e66d0934cf741bfd2182c16' // PUNYA Jarot 357d3c85079c4e0818731e
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285172402754', 'Maouk Store', true],
-  ['6285942994641', 'Nolse Store', true],
-  ['6285172398526', 'Power Bots', true],
-  ['6282112309026', 'Makima Bots', true], //Ganti jd nomormu sama Namamu
+  ['6285738639969', '𝐕𝐚𝐦𝐬𝐞𝐬 𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥', true],
+  ['6289508503105', '𝐕𝐚𝐦𝐬𝐞𝐬 𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥', true],
+  ['6282250712553', '𝐕𝐚𝐦𝐬𝐞𝐬 𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥', true],
+  ['6287789210430', '𝐕𝐚𝐦𝐬𝐞𝐬 𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥', true], //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -111,21 +111,21 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 Makima-BOTS 」' //Main Watermark
+global.wm = '                「 𝐂𝐡𝐨𝐧𝐢𝐱-𝐁𝐨𝐭 」' //Main Watermark
 global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘ʙᴏᴛs 𝘔𝘶𝘭𝘵𝘪𝘋𝘦𝘷𝘪𝘤𝘦˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ Makima-BOTS '
+global.wm3 = '⫹⫺ 𝐂𝐡𝐨𝐧𝐢𝐱-𝐁𝐨𝐭 '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `⫹⫺ WhatsApp Bot | BY Maouk`
+global.titlebot = `⫹⫺ WhatsApp Bot | BY Vamses`
 global.author = '                「 ʙᴏᴛs 𝘔𝘶𝘭𝘵𝘪𝘋𝘦𝘷𝘪𝘤𝘦  あ」'
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://telegra.ph/file/4bc23c75e4e3e37b2beff.jpg' //Main Thumbnail
-global.imagebot = 'https://telegra.ph/file/4bc23c75e4e3e37b2beff.jpg'
+global.thumb = 'https://telegra.ph/file/faa2d78e288d5adfd1e7c.jpg' //Main Thumbnail
+global.imagebot = 'https://telegra.ph/file/faa2d78e288d5adfd1e7c.jpg'
 global.giflogo = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4'
-global.thumbs = ['https://telegra.ph/file/4bc23c75e4e3e37b2beff.jpg']
-global.fla = 'https://telegra.ph/file/4bc23c75e4e3e37b2beff.jpg'
+global.thumbs = ['https://telegra.ph/file/faa2d78e288d5adfd1e7c.jpg']
+global.fla = 'https://telegra.ph/file/faa2d78e288d5adfd1e7c.jpg'
 global.flaaa2 = [
 'https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=water-logo&script=water-logo&fontsize=90&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextColor=%23000&shadowGlowColor=%23000&backgroundColor=%23000&text=',
 'https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=crafts-logo&fontsize=90&doScale=true&scaleWidth=800&scaleHeight=500&text=',
@@ -191,7 +191,7 @@ global.htjava = '❒'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'Maouk Store'
+global.stickpack = '𝐕𝐚𝐦𝐬𝐞𝐬 𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥'
 global.stickauth = `𝐖𝐡𝐚𝐬𝐭𝐚𝐩𝐩 𝐛𝐨𝐭𝐳`
 
 global.multiplier = 38 // The higher, The harder levelup
