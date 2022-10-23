@@ -23,29 +23,29 @@ let jarot = `*▸ —「 𝘐𝘯𝘧𝘰𝘳𝘮𝘢𝘴𝘪 𝘛𝘦𝘯𝘵�
 
 「𝘔𝘶𝘯𝘨𝘬𝘪𝘯 𝘔𝘢𝘶 𝘋𝘰𝘯𝘢𝘴𝘪」
 
-⫹⫺ Via Pulsa : 085172402754
-⫹⫺ Via Dana : 085172402754
-⫹⫺ Via Gopay : 085172402754
+⫹⫺ Via Pulsa : 085738639969
+⫹⫺ Via Dana : 085738639969
+⫹⫺ Via Ovo : 085738639969
 
 「 𝘐𝘬𝘶𝘵𝘪 𝘚𝘰𝘴𝘪𝘢𝘭 𝘮𝘦𝘥𝘪𝘢 𝘉𝘰𝘵」
 
 ⫹⫺ 𝘉𝘪𝘢𝘳 𝘛𝘪𝘥𝘢𝘬 𝘒𝘦𝘵𝘪𝘯𝘨𝘨𝘢𝘭𝘢𝘯 𝘐𝘯𝘧𝘰𝘳𝘮𝘢𝘴𝘪 𝘛𝘦𝘳𝘣𝘢𝘳𝘶!!
 *❉ Follow Github Owner*
-⫹⫺ https://github.com/zodress
+⫹⫺ https://github.com/VamsesOfficial
 *❉ Follow Instagram Owner*
-⫹⫺ https://Instagram.com/maouk.store
+⫹⫺ https://Instagram.com/ketutagus404
 
 「 𝘑𝘰𝘪𝘯 𝘎𝘳𝘰𝘶𝘱 𝘉𝘰𝘵 𝘒𝘢𝘬 」
 
 *𝘎𝘳𝘰𝘶𝘱 Bot*
-⫹⫺ https://chat.whatsapp.com/DbbDlICeGFuJiX9KlFyI17
+⫹⫺ https://chat.whatsapp.com/JxI53XkvnnYHP2D1eIZ8fu
 
 `
 conn.sendButtonDoc(m.chat, jarot, wm,'Makasih Yang Sudah Suport','You', m, { contextInfo: { externalAdReply: { showAdAttribution: true,
-    mediaUrl: "https://Instagram.com/maouk.store",
+    mediaUrl: "https://Instagram.com/ketutagus404",
     mediaType: "VIDEO",
-    description: "https://Instagram.com/maouk.store", 
-    title: 'Makima-MultiDevice',
+    description: "https://Instagram.com/ketutagus404", 
+    title: 'Chonix-MultiDevice',
     body: wm,
     thumbnail: thumb,
     sourceUrl: sig
